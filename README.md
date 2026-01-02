@@ -63,6 +63,7 @@ During the initial run, low disk space caused a system-wide crash, resulting in 
 1. **Emergency Access**: Intercepted the boot process via **GRUB Recovery Mode** to access a **root shell**.
 
 <img width="874" height="768" alt="recoverymode-select" src="https://github.com/user-attachments/assets/5b5f1c5c-4574-4eb1-b6e9-b41169cbf8db" />
+<img width="932" height="576" alt="recovery-boot-mode" src="https://github.com/user-attachments/assets/18c43f2a-4332-47b0-a54b-d3bb376f1c1f" />
 <img width="870" height="526" alt="recoverymode-shell-method2" src="https://github.com/user-attachments/assets/8b45380d-03bb-4712-9268-a1c72e8bea49" />
 
 2. **Filesystem Repair**: Remounted the drive as read-write: 
@@ -139,3 +140,4 @@ This lab was completed following the instructional guide by **Royden Rebello (Th
 
 
 https://www.youtube.com/watch?v=QT81wcuoRFY
+
